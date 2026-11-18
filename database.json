@@ -5,7 +5,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 100,
+      "pesos": 118,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -29,6 +29,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795022367070,
+          "tipo": "in",
+          "titulo": "Recibido de @kitty",
+          "detalle": "Toma",
+          "monto": "+18 PM"
+        },
+        {
           "fecha": 1795022321965,
           "tipo": "sys",
           "titulo": "Ajuste administrativo",
@@ -44,6 +51,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022367070.6685,
+          "leida": false,
+          "fecha": 1795022367070,
+          "texto": "Transferencia recibida de @kitty: +18 PM (Toma)."
+        },
         {
           "id": 1795022117436.0027,
           "leida": false,
@@ -68,9 +81,9 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 100,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
+      "pesos": 82,
+      "en_deuda_comision": true,
+      "fecha_deuda": 1795022367070,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -91,6 +104,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795022367070,
+          "tipo": "out",
+          "titulo": "Envío a @chrispro32",
+          "detalle": "Toma (Comisión Bs.)",
+          "monto": "-18 PM"
+        },
         {
           "fecha": 1795022311659,
           "tipo": "sys",
