@@ -172,9 +172,7 @@
         "cristian32g",
         "marvel"
       ],
-      "solicitudes_entrantes": [
-        "marvel"
-      ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795032235792,
@@ -503,6 +501,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795032393052.218,
+          "leida": false,
+          "fecha": 1795032393052,
+          "texto": "@kitty aceptó su solicitud de amistad."
+        },
         {
           "id": 1795032239260.1729,
           "leida": false,
