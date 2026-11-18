@@ -37,13 +37,13 @@
       "notificaciones": [
         {
           "id": 1795021520572.7222,
-          "leida": false,
+          "leida": true,
           "fecha": 1795021520572,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
         {
           "id": 1795021510681,
-          "leida": false,
+          "leida": true,
           "fecha": 1795021510681,
           "texto": "Bienvenido Christopher. Su cuenta fue registrada en Mine-Banco."
         }
