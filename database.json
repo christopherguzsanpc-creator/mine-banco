@@ -21,7 +21,8 @@
         "ocultar_saldo": false,
         "tarjeta_congelada": false,
         "recibir_solicitudes": true,
-        "tema_oscuro": false
+        "tema_oscuro": false,
+        "intervalo_sync": 30
       },
       "amigos": [
         "kitty"
