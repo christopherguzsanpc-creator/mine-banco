@@ -148,7 +148,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 788,
+      "pesos": 787,
       "en_deuda_comision": true,
       "fecha_deuda": 1795031443653,
       "dias_multa_cobrados": 0,
@@ -176,6 +176,13 @@
         "marvel"
       ],
       "historial": [
+        {
+          "fecha": 1795031803540,
+          "tipo": "out",
+          "titulo": "Envío a @marvel",
+          "detalle": "Mami me devuelves mi platita🙏😣😥😥 (Comisión Bs.)",
+          "monto": "-1 PM"
+        },
         {
           "fecha": 1795031443653,
           "tipo": "out",
@@ -422,7 +429,7 @@
       "nombre": "Gabriela",
       "apellidos": "Sánchez",
       "password": "4321",
-      "pesos": 10,
+      "pesos": 11,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -447,6 +454,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795031803545,
+          "tipo": "in",
+          "titulo": "Recibido de @kitty",
+          "detalle": "Mami me devuelves mi platita🙏😣😥😥",
+          "monto": "+1 PM"
+        },
+        {
           "fecha": 1795031443653,
           "tipo": "in",
           "titulo": "Recibido de @kitty",
@@ -462,6 +476,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795031803545.4219,
+          "leida": false,
+          "fecha": 1795031803545,
+          "texto": "Transferencia recibida de @kitty: +1 PM (Mami me devuelves mi platita🙏😣😥😥)."
+        },
         {
           "id": 1795031443653.8752,
           "leida": true,
