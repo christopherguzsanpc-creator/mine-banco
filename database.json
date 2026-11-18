@@ -5,9 +5,9 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 118,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
+      "pesos": 100,
+      "en_deuda_comision": true,
+      "fecha_deuda": 1795022423356,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -28,6 +28,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795022423356,
+          "tipo": "out",
+          "titulo": "Envío a @kitty",
+          "detalle": "El pepe 67 (Comisión Bs.)",
+          "monto": "-18 PM"
+        },
         {
           "fecha": 1795022367070,
           "tipo": "in",
@@ -81,7 +88,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 82,
+      "pesos": 100,
       "en_deuda_comision": true,
       "fecha_deuda": 1795022367070,
       "dias_multa_cobrados": 0,
@@ -105,6 +112,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795022423356,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "El pepe 67",
+          "monto": "+18 PM"
+        },
+        {
           "fecha": 1795022367070,
           "tipo": "out",
           "titulo": "Envío a @chrispro32",
@@ -127,6 +141,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022423356.8794,
+          "leida": false,
+          "fecha": 1795022423356,
+          "texto": "Transferencia recibida de @chrispro32: +18 PM (El pepe 67)."
+        },
         {
           "id": 1795022341494.9165,
           "leida": true,
