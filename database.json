@@ -23,7 +23,9 @@
         "recibir_solicitudes": true,
         "tema_oscuro": false
       },
-      "amigos": [],
+      "amigos": [
+        "kitty"
+      ],
       "solicitudes_entrantes": [
         "kitty"
       ],
@@ -37,6 +39,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022117436.0027,
+          "leida": false,
+          "fecha": 1795022117436,
+          "texto": "@kitty aceptó su solicitud de amistad."
+        },
         {
           "id": 1795022111931.6685,
           "leida": false,
@@ -73,10 +81,10 @@
         "recibir_solicitudes": true,
         "tema_oscuro": false
       },
-      "amigos": [],
-      "solicitudes_entrantes": [
+      "amigos": [
         "chrispro32"
       ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795022083715,
