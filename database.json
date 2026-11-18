@@ -143,7 +143,7 @@
       "notificaciones": [
         {
           "id": 1795022423356.8794,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022423356,
           "texto": "Transferencia recibida de @chrispro32: +18 PM (El pepe 67)."
         },
