@@ -432,7 +432,7 @@
         "tarjeta_congelada": false,
         "recibir_solicitudes": true,
         "tema_oscuro": true,
-        "intervalo_sync": 60
+        "intervalo_sync": 30
       },
       "amigos": [
         "kitty"
