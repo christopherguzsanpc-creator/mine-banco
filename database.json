@@ -29,6 +29,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795022755319,
+          "tipo": "sys",
+          "titulo": "Ajuste administrativo",
+          "detalle": "Aprobado por Christopher",
+          "monto": "100 PM"
+        },
+        {
           "fecha": 1795022691080,
           "tipo": "in",
           "titulo": "Recibido de @kitty",
