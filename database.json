@@ -141,7 +141,7 @@
       "baneado": false,
       "tarjeta": {
         "solicitada": true,
-        "aprobada": true,
+        "aprobada": false,
         "numero": "5484148036116243",
         "cvv": "239",
         "expiracion": "11/30"
@@ -230,6 +230,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795026566107.3892,
+          "leida": false,
+          "fecha": 1795026566107,
+          "texto": "Su tarjeta MasterCard fue revocada temporalmente por Christopher."
+        },
         {
           "id": 1795022859068.7546,
           "leida": false,
