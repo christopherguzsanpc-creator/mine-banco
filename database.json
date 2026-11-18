@@ -149,8 +149,8 @@
       "apellidos": "Guzmán",
       "password": "2618",
       "pesos": 700,
-      "en_deuda_comision": true,
-      "fecha_deuda": 1795031443653,
+      "en_deuda_comision": false,
+      "fecha_deuda": null,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -176,6 +176,13 @@
         "marvel"
       ],
       "historial": [
+        {
+          "fecha": 1795032235792,
+          "tipo": "in",
+          "titulo": "Pago en Bs. verificado",
+          "detalle": "Aprobado por Christopher — deuda saldada",
+          "monto": "700 PM"
+        },
         {
           "fecha": 1795032105794,
           "tipo": "out",
@@ -283,6 +290,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795032235792.5154,
+          "leida": false,
+          "fecha": 1795032235792,
+          "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 700 PM."
+        },
         {
           "id": 1795031415892.353,
           "leida": false,
