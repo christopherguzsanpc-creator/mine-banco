@@ -5,9 +5,9 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 100,
-      "en_deuda_comision": true,
-      "fecha_deuda": 1795022423356,
+      "pesos": 0,
+      "en_deuda_comision": false,
+      "fecha_deuda": null,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -28,6 +28,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795022526776,
+          "tipo": "in",
+          "titulo": "Pago en Bs. verificado",
+          "detalle": "Aprobado por Christopher — deuda saldada",
+          "monto": "0 PM"
+        },
         {
           "fecha": 1795022423356,
           "tipo": "out",
@@ -58,6 +65,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022526776.864,
+          "leida": false,
+          "fecha": 1795022526776,
+          "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 0 PM."
+        },
         {
           "id": 1795022367070.6685,
           "leida": false,
