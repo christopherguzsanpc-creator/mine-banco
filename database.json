@@ -261,7 +261,7 @@
       "notificaciones": [
         {
           "id": 1795030939974.4102,
-          "leida": false,
+          "leida": true,
           "fecha": 1795030939974,
           "texto": "@cristian32g aceptó su solicitud de amistad."
         },
