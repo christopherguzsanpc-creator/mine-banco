@@ -1,5 +1,48 @@
 {
   "comisiones_admin_pesos": 0,
-  "usuarios": {},
+  "usuarios": {
+    "chris23": {
+      "nombre": "Christopher",
+      "apellidos": "Guzmán",
+      "password": "Mario.12",
+      "pesos": 0,
+      "en_deuda_comision": false,
+      "fecha_deuda": null,
+      "dias_multa_cobrados": 0,
+      "baneado": false,
+      "tarjeta": {
+        "solicitada": false,
+        "aprobada": false,
+        "numero": null,
+        "cvv": null,
+        "expiracion": null
+      },
+      "opciones": {
+        "ocultar_saldo": false,
+        "tarjeta_congelada": false,
+        "recibir_solicitudes": true,
+        "tema_oscuro": false
+      },
+      "amigos": [],
+      "solicitudes_entrantes": [],
+      "historial": [
+        {
+          "fecha": 1795021510681,
+          "tipo": "sys",
+          "titulo": "Apertura de cuenta",
+          "detalle": "Registrada en Mine-Banco",
+          "monto": "0 PM"
+        }
+      ],
+      "notificaciones": [
+        {
+          "id": 1795021510681,
+          "leida": false,
+          "fecha": 1795021510681,
+          "texto": "Bienvenido Christopher. Su cuenta fue registrada en Mine-Banco."
+        }
+      ]
+    }
+  },
   "chats": {}
 }
