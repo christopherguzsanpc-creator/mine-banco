@@ -29,6 +29,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795024957365,
+          "tipo": "sys",
+          "titulo": "Ajuste administrativo",
+          "detalle": "Aprobado por Christopher",
+          "monto": "12 PM"
+        },
+        {
           "fecha": 1795024543628,
           "tipo": "in",
           "titulo": "Pago en Bs. verificado",
