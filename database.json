@@ -24,7 +24,9 @@
         "tema_oscuro": false
       },
       "amigos": [],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "kitty"
+      ],
       "historial": [
         {
           "fecha": 1795022064680,
@@ -35,6 +37,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022111931.6685,
+          "leida": false,
+          "fecha": 1795022111931,
+          "texto": "Nueva solicitud de amistad de @kitty."
+        },
         {
           "id": 1795022064681,
           "leida": false,
