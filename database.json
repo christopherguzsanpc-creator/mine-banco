@@ -171,7 +171,9 @@
         "chrispro32",
         "cristian32g"
       ],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "marvel"
+      ],
       "historial": [
         {
           "fecha": 1795026761045,
@@ -259,6 +261,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795031381132.9656,
+          "leida": false,
+          "fecha": 1795031381132,
+          "texto": "Nueva solicitud de amistad de @marvel."
+        },
         {
           "id": 1795026761045.0547,
           "leida": true,
