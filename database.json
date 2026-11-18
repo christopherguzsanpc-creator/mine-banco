@@ -1,5 +1,5 @@
 {
-  "comisiones_admin_pesos": 12,
+  "comisiones_admin_pesos": 14,
   "usuarios": {
     "chrispro32": {
       "nombre": "Christopher",
@@ -148,7 +148,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 1054,
+      "pesos": 383,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -174,6 +174,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795033578036,
+          "tipo": "out",
+          "titulo": "Envío a @marvel",
+          "detalle": "Gj (+2 PM com.)",
+          "monto": "-671 PM"
+        },
         {
           "fecha": 1795033474624,
           "tipo": "out",
@@ -426,7 +433,7 @@
       "nombre": "Gabriela",
       "apellidos": "Sánchez",
       "password": "4321",
-      "pesos": 553,
+      "pesos": 1222,
       "en_deuda_comision": true,
       "fecha_deuda": 1795033387804,
       "dias_multa_cobrados": 0,
@@ -450,6 +457,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795033578036,
+          "tipo": "in",
+          "titulo": "Recibido de @kitty",
+          "detalle": "Gj",
+          "monto": "+669 PM"
+        },
         {
           "fecha": 1795033474624,
           "tipo": "in",
@@ -508,6 +522,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795033578036.8977,
+          "leida": false,
+          "fecha": 1795033578036,
+          "texto": "Transferencia recibida de @kitty: +669 PM (Gj)."
+        },
         {
           "id": 1795033474624.676,
           "leida": false,
