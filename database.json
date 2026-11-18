@@ -168,7 +168,8 @@
         "intervalo_sync": 30
       },
       "amigos": [
-        "chrispro32"
+        "chrispro32",
+        "cristian32g"
       ],
       "solicitudes_entrantes": [],
       "historial": [
@@ -258,6 +259,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795030939974.4102,
+          "leida": false,
+          "fecha": 1795030939974,
+          "texto": "@cristian32g aceptó su solicitud de amistad."
+        },
         {
           "id": 1795026761045.0547,
           "leida": true,
@@ -367,10 +374,10 @@
         "tema_oscuro": false,
         "intervalo_sync": 60
       },
-      "amigos": [],
-      "solicitudes_entrantes": [
+      "amigos": [
         "kitty"
       ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795030819697,
