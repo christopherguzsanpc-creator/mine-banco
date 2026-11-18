@@ -353,42 +353,6 @@
     }
   },
   "chats": {
-    "chrispro32__kitty": [
-      {
-        "de": "chrispro32",
-        "texto": "Jd",
-        "fecha": 1795026884992
-      },
-      {
-        "de": "chrispro32",
-        "texto": "Hw",
-        "fecha": 1795026890873
-      },
-      {
-        "de": "chrispro32",
-        "texto": "Hsh",
-        "fecha": 1795026894326
-      },
-      {
-        "de": "kitty",
-        "texto": "Bvgg7hjhhvklugvvggvgogvovguvgobg",
-        "fecha": 1795026897596
-      },
-      {
-        "de": "chrispro32",
-        "texto": "D",
-        "fecha": 1795026898872
-      },
-      {
-        "de": "chrispro32",
-        "texto": "D",
-        "fecha": 1795026903298
-      },
-      {
-        "de": "kitty",
-        "texto": "Hola aque juegos",
-        "fecha": 1795026925254
-      }
-    ]
+    "chrispro32__kitty": []
   }
 }
