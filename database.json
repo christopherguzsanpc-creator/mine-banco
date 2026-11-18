@@ -97,7 +97,7 @@
         "ocultar_saldo": false,
         "tarjeta_congelada": false,
         "recibir_solicitudes": true,
-        "tema_oscuro": false
+        "tema_oscuro": true
       },
       "amigos": [
         "chrispro32"
