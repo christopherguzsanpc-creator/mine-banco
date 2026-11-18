@@ -428,7 +428,9 @@
         "intervalo_sync": 60
       },
       "amigos": [],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "kitty"
+      ],
       "historial": [
         {
           "fecha": 1795031249899,
@@ -439,6 +441,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795031384189.2422,
+          "leida": false,
+          "fecha": 1795031384189,
+          "texto": "Nueva solicitud de amistad de @kitty."
+        },
         {
           "id": 1795031249899,
           "leida": true,
