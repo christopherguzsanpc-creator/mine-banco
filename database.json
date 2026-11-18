@@ -148,9 +148,9 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 798,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
+      "pesos": 788,
+      "en_deuda_comision": true,
+      "fecha_deuda": 1795031443653,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -176,6 +176,13 @@
         "marvel"
       ],
       "historial": [
+        {
+          "fecha": 1795031443653,
+          "tipo": "out",
+          "titulo": "Envío a @marvel",
+          "detalle": "Toma mamá (Comisión Bs.)",
+          "monto": "-10 PM"
+        },
         {
           "fecha": 1795026761045,
           "tipo": "in",
@@ -415,7 +422,7 @@
       "nombre": "Gabriela",
       "apellidos": "Sánchez",
       "password": "4321",
-      "pesos": 0,
+      "pesos": 10,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -440,6 +447,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795031443653,
+          "tipo": "in",
+          "titulo": "Recibido de @kitty",
+          "detalle": "Toma mamá",
+          "monto": "+10 PM"
+        },
+        {
           "fecha": 1795031249899,
           "tipo": "sys",
           "titulo": "Apertura de cuenta",
@@ -448,6 +462,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795031443653.8752,
+          "leida": false,
+          "fecha": 1795031443653,
+          "texto": "Transferencia recibida de @kitty: +10 PM (Toma mamá)."
+        },
         {
           "id": 1795031434165.7563,
           "leida": false,
