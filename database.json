@@ -11,11 +11,11 @@
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
-        "solicitada": false,
+        "solicitada": true,
         "aprobada": false,
-        "numero": null,
-        "cvv": null,
-        "expiracion": null
+        "numero": "5532448030197906",
+        "cvv": "624",
+        "expiracion": "11/30"
       },
       "opciones": {
         "ocultar_saldo": false,
@@ -35,6 +35,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795021520572.7222,
+          "leida": false,
+          "fecha": 1795021520572,
+          "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
+        },
         {
           "id": 1795021510681,
           "leida": false,
