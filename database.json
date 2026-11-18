@@ -159,7 +159,7 @@
       "en_deuda_comision": true,
       "fecha_deuda": 1795026619283,
       "dias_multa_cobrados": 0,
-      "baneado": true,
+      "baneado": false,
       "tarjeta": {
         "solicitada": true,
         "aprobada": true,
