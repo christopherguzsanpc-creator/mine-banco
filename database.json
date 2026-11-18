@@ -260,55 +260,55 @@
       "notificaciones": [
         {
           "id": 1795026761045.0547,
-          "leida": false,
+          "leida": true,
           "fecha": 1795026761045,
           "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 798 PM."
         },
         {
           "id": 1795026668377.3616,
-          "leida": false,
+          "leida": true,
           "fecha": 1795026668377,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
         {
           "id": 1795026661490.053,
-          "leida": false,
+          "leida": true,
           "fecha": 1795026661490,
           "texto": "Su tarjeta MasterCard fue revocada temporalmente por Christopher."
         },
         {
           "id": 1795026575345.2063,
-          "leida": false,
+          "leida": true,
           "fecha": 1795026575345,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
         {
           "id": 1795026566107.3892,
-          "leida": false,
+          "leida": true,
           "fecha": 1795026566107,
           "texto": "Su tarjeta MasterCard fue revocada temporalmente por Christopher."
         },
         {
           "id": 1795022859068.7546,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022859069,
           "texto": "Transferencia recibida de @chrispro32: +500 PM (F)."
         },
         {
           "id": 1795022822908.7097,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022822908,
           "texto": "Transferencia recibida de @chrispro32: +299 PM (Siuuu)."
         },
         {
           "id": 1795022735486.0303,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022735486,
           "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 0 PM."
         },
         {
           "id": 1795022510844.1707,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022510844,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
