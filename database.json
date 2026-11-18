@@ -142,14 +142,7 @@
           "monto": "0 PM"
         }
       ],
-      "notificaciones": [
-        {
-          "id": 1795026619284.6545,
-          "leida": true,
-          "fecha": 1795026619284,
-          "texto": "Transferencia recibida de @kitty: +1 PM (Muejejjejejejejje)."
-        }
-      ]
+      "notificaciones": []
     },
     "kitty": {
       "nombre": "Evangeline",
