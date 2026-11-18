@@ -116,61 +116,61 @@
       "notificaciones": [
         {
           "id": 1795022724620.65,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022724620,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
         {
           "id": 1795022691080.5447,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022691080,
           "texto": "Transferencia recibida de @kitty: +98 PM (Transferencia)."
         },
         {
           "id": 1795022647705.988,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022647705,
           "texto": "Transferencia recibida de @kitty: +1 PM (El PEPE 67 67 67 jajajaja)."
         },
         {
           "id": 1795022599656.2527,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022599656,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
         {
           "id": 1795022550152.84,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022550152,
           "texto": "Transferencia recibida de @kitty: +1 PM (El PEPE 67 67 67)."
         },
         {
           "id": 1795022526776.864,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022526776,
           "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 0 PM."
         },
         {
           "id": 1795022367070.6685,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022367070,
           "texto": "Transferencia recibida de @kitty: +18 PM (Toma)."
         },
         {
           "id": 1795022117436.0027,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022117436,
           "texto": "@kitty aceptó su solicitud de amistad."
         },
         {
           "id": 1795022111931.6685,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022111931,
           "texto": "Nueva solicitud de amistad de @kitty."
         },
         {
           "id": 1795022064681,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022064681,
           "texto": "Bienvenido Christopher. Su cuenta fue registrada en Mine-Banco."
         }
