@@ -5,7 +5,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 100,
+      "pesos": 2500,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -28,6 +28,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795022769933,
+          "tipo": "sys",
+          "titulo": "Ajuste administrativo",
+          "detalle": "Aprobado por Christopher",
+          "monto": "2500 PM"
+        },
         {
           "fecha": 1795022755319,
           "tipo": "sys",
