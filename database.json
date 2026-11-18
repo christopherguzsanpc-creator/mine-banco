@@ -5,9 +5,9 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 2500,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
+      "pesos": 2201,
+      "en_deuda_comision": true,
+      "fecha_deuda": 1795022822908,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -28,6 +28,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795022822908,
+          "tipo": "out",
+          "titulo": "Envío a @kitty",
+          "detalle": "Siuuu (Comisión Bs.)",
+          "monto": "-299 PM"
+        },
         {
           "fecha": 1795022769933,
           "tipo": "sys",
@@ -166,7 +173,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 0,
+      "pesos": 299,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -189,6 +196,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795022822908,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "Siuuu",
+          "monto": "+299 PM"
+        },
         {
           "fecha": 1795022735486,
           "tipo": "in",
@@ -247,6 +261,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022822908.7097,
+          "leida": false,
+          "fecha": 1795022822908,
+          "texto": "Transferencia recibida de @chrispro32: +299 PM (Siuuu)."
+        },
         {
           "id": 1795022735486.0303,
           "leida": false,
