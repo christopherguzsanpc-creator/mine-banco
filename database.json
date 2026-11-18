@@ -26,9 +26,7 @@
       "amigos": [
         "kitty"
       ],
-      "solicitudes_entrantes": [
-        "kitty"
-      ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795022064680,
@@ -95,6 +93,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022122493.6406,
+          "leida": false,
+          "fecha": 1795022122493,
+          "texto": "@chrispro32 aceptó su solicitud de amistad."
+        },
         {
           "id": 1795022103767.3154,
           "leida": false,
