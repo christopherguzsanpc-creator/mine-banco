@@ -145,7 +145,7 @@
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
-      "baneado": false,
+      "baneado": true,
       "tarjeta": {
         "solicitada": true,
         "aprobada": true,
