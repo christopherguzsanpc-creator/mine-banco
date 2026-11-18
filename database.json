@@ -148,7 +148,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 787,
+      "pesos": 700,
       "en_deuda_comision": true,
       "fecha_deuda": 1795031443653,
       "dias_multa_cobrados": 0,
@@ -176,6 +176,13 @@
         "marvel"
       ],
       "historial": [
+        {
+          "fecha": 1795032105794,
+          "tipo": "out",
+          "titulo": "Envío a @marvel",
+          "detalle": "\"- no seas distraída esto solo es un regalo (Comisión Bs.)",
+          "monto": "-87 PM"
+        },
         {
           "fecha": 1795031803540,
           "tipo": "out",
@@ -429,7 +436,7 @@
       "nombre": "Gabriela",
       "apellidos": "Sánchez",
       "password": "4321",
-      "pesos": 11,
+      "pesos": 98,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -454,6 +461,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795032105794,
+          "tipo": "in",
+          "titulo": "Recibido de @kitty",
+          "detalle": "\"- no seas distraída esto solo es un regalo",
+          "monto": "+87 PM"
+        },
+        {
           "fecha": 1795031803545,
           "tipo": "in",
           "titulo": "Recibido de @kitty",
@@ -476,6 +490,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795032105794.5928,
+          "leida": false,
+          "fecha": 1795032105794,
+          "texto": "Transferencia recibida de @kitty: +87 PM (\"- no seas distraída esto solo es un regalo)."
+        },
         {
           "id": 1795031803545.4219,
           "leida": false,
