@@ -95,7 +95,7 @@
       "baneado": false,
       "tarjeta": {
         "solicitada": true,
-        "aprobada": false,
+        "aprobada": true,
         "numero": "5484148036116243",
         "cvv": "239",
         "expiracion": "11/30"
@@ -141,6 +141,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795022510844.1707,
+          "leida": false,
+          "fecha": 1795022510844,
+          "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
+        },
         {
           "id": 1795022423356.8794,
           "leida": true,
