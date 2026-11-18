@@ -292,19 +292,19 @@
       "notificaciones": [
         {
           "id": 1795032235792.5154,
-          "leida": false,
+          "leida": true,
           "fecha": 1795032235792,
           "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 700 PM."
         },
         {
           "id": 1795031415892.353,
-          "leida": false,
+          "leida": true,
           "fecha": 1795031415892,
           "texto": "@marvel aceptó su solicitud de amistad."
         },
         {
           "id": 1795031381132.9656,
-          "leida": false,
+          "leida": true,
           "fecha": 1795031381132,
           "texto": "Nueva solicitud de amistad de @marvel."
         },
