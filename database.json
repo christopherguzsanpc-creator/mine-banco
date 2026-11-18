@@ -374,7 +374,7 @@
       "notificaciones": [
         {
           "id": 1795033647639.1526,
-          "leida": false,
+          "leida": true,
           "fecha": 1795033647639,
           "texto": "Transferencia recibida de @marvel: +500 PM (Transferencia)."
         },
