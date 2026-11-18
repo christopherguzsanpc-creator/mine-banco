@@ -5,7 +5,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 13,
+      "pesos": 14,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -29,6 +29,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795033718904,
+          "tipo": "in",
+          "titulo": "Recibido de @marvel",
+          "detalle": "Gyxtcpj logo ih hcchgcg c gg. G g gg ghcngkg",
+          "monto": "+1 PM"
+        },
         {
           "fecha": 1795026619284,
           "tipo": "in",
@@ -142,7 +149,14 @@
           "monto": "0 PM"
         }
       ],
-      "notificaciones": []
+      "notificaciones": [
+        {
+          "id": 1795033718904.2478,
+          "leida": false,
+          "fecha": 1795033718904,
+          "texto": "Transferencia recibida de @marvel: +1 PM (Gyxtcpj logo ih hcchgcg c gg. G g gg ghcngkg)."
+        }
+      ]
     },
     "kitty": {
       "nombre": "Evangeline",
@@ -459,7 +473,7 @@
       "nombre": "Gabriela",
       "apellidos": "Sánchez",
       "password": "4321",
-      "pesos": 534,
+      "pesos": 533,
       "en_deuda_comision": true,
       "fecha_deuda": 1795033387804,
       "dias_multa_cobrados": 0,
@@ -483,6 +497,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795033718904,
+          "tipo": "out",
+          "titulo": "Envío a @chrispro32",
+          "detalle": "Gyxtcpj logo ih hcchgcg c gg. G g gg ghcngkg (Comisión Bs.)",
+          "monto": "-1 PM"
+        },
         {
           "fecha": 1795033647639,
           "tipo": "out",
