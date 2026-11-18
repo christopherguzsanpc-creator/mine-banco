@@ -473,25 +473,25 @@
       "notificaciones": [
         {
           "id": 1795033136584.8108,
-          "leida": false,
+          "leida": true,
           "fecha": 1795033136584,
           "texto": "Transferencia recibida de @kitty: +332 PM (Jajaja)."
         },
         {
           "id": 1795033081081.2832,
-          "leida": false,
+          "leida": true,
           "fecha": 1795033081081,
           "texto": "Transferencia recibida de @kitty: +1 PM (Toma $1000)."
         },
         {
           "id": 1795030928875.1443,
-          "leida": false,
+          "leida": true,
           "fecha": 1795030928875,
           "texto": "Nueva solicitud de amistad de @kitty."
         },
         {
           "id": 1795030819697,
-          "leida": false,
+          "leida": true,
           "fecha": 1795030819697,
           "texto": "Bienvenido Persona. Su cuenta fue registrada en Mine-Banco."
         }
