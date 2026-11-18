@@ -464,19 +464,19 @@
       "notificaciones": [
         {
           "id": 1795031443653.8752,
-          "leida": false,
+          "leida": true,
           "fecha": 1795031443653,
           "texto": "Transferencia recibida de @kitty: +10 PM (Toma mamá)."
         },
         {
           "id": 1795031434165.7563,
-          "leida": false,
+          "leida": true,
           "fecha": 1795031434165,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
         {
           "id": 1795031384189.2422,
-          "leida": false,
+          "leida": true,
           "fecha": 1795031384189,
           "texto": "Nueva solicitud de amistad de @kitty."
         },
