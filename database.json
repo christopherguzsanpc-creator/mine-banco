@@ -169,7 +169,8 @@
       },
       "amigos": [
         "chrispro32",
-        "cristian32g"
+        "cristian32g",
+        "marvel"
       ],
       "solicitudes_entrantes": [
         "marvel"
@@ -261,6 +262,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795031415892.353,
+          "leida": false,
+          "fecha": 1795031415892,
+          "texto": "@marvel aceptó su solicitud de amistad."
+        },
         {
           "id": 1795031381132.9656,
           "leida": false,
@@ -427,10 +434,10 @@
         "tema_oscuro": true,
         "intervalo_sync": 60
       },
-      "amigos": [],
-      "solicitudes_entrantes": [
+      "amigos": [
         "kitty"
       ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795031249899,
