@@ -353,13 +353,13 @@
       "notificaciones": [
         {
           "id": 1795033607458.2808,
-          "leida": false,
+          "leida": true,
           "fecha": 1795033607458,
           "texto": "Transferencia recibida de @marvel: +188 PM (M)."
         },
         {
           "id": 1795033387804.6746,
-          "leida": false,
+          "leida": true,
           "fecha": 1795033387804,
           "texto": "Transferencia recibida de @marvel: +600 PM (Hola)."
         }
