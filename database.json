@@ -353,6 +353,12 @@
     }
   },
   "chats": {
-    "chrispro32__kitty": []
+    "chrispro32__kitty": [
+      {
+        "de": "chrispro32",
+        "texto": "Jd",
+        "fecha": 1795026884992
+      }
+    ]
   }
 }
