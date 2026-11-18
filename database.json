@@ -109,19 +109,19 @@
       "notificaciones": [
         {
           "id": 1795022122493.6406,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022122493,
           "texto": "@chrispro32 aceptó su solicitud de amistad."
         },
         {
           "id": 1795022103767.3154,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022103767,
           "texto": "Nueva solicitud de amistad de @chrispro32."
         },
         {
           "id": 1795022083715,
-          "leida": false,
+          "leida": true,
           "fecha": 1795022083715,
           "texto": "Bienvenido Evangeline. Su cuenta fue registrada en Mine-Banco."
         }
