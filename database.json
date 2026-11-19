@@ -131,13 +131,13 @@
       "notificaciones": [
         {
           "id": 1795117774131,
-          "leida": false,
+          "leida": true,
           "fecha": 1795117774131,
           "texto": "Acreditados +15 PM desde Mine-Games."
         },
         {
           "id": 1795117655903,
-          "leida": false,
+          "leida": true,
           "fecha": 1795117655903,
           "texto": "Acreditados +54 PM desde Mine-Games."
         },
