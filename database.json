@@ -1,11 +1,11 @@
 {
-  "comisiones_admin_pesos": 14,
+  "comisiones_admin_pesos": 16,
   "usuarios": {
     "chrispro32": {
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 65,
+      "pesos": 62,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -29,6 +29,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795122439844,
+          "tipo": "out",
+          "titulo": "Envío a @kitty",
+          "detalle": "N (+2 PM com.)",
+          "monto": "-3 PM"
+        },
         {
           "fecha": 1795117774131,
           "tipo": "in",
@@ -165,7 +172,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 0,
+      "pesos": 1,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -189,6 +196,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795122439844,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "N",
+          "monto": "+1 PM"
+        },
         {
           "fecha": 1795111512745,
           "tipo": "sys",
@@ -387,6 +401,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795122439844.0942,
+          "leida": false,
+          "fecha": 1795122439844,
+          "texto": "Transferencia recibida de @chrispro32: +1 PM (N)."
+        },
         {
           "id": 1795049579593.5771,
           "leida": false,
