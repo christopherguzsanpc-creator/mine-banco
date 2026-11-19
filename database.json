@@ -6,8 +6,8 @@
       "apellidos": "Guzmán",
       "password": "Mario.12",
       "pesos": 13,
-      "en_deuda_comision": true,
-      "fecha_deuda": 1795049579592,
+      "en_deuda_comision": false,
+      "fecha_deuda": null,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -30,6 +30,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795101213616,
+          "tipo": "in",
+          "titulo": "Pago en Bs. verificado",
+          "detalle": "Aprobado por Christopher — deuda saldada",
+          "monto": "13 PM"
+        },
+        {
           "fecha": 1795049579592,
           "tipo": "out",
           "titulo": "Envío a @kitty",
@@ -37,7 +44,14 @@
           "monto": "-1 PM"
         }
       ],
-      "notificaciones": []
+      "notificaciones": [
+        {
+          "id": 1795101213616.4685,
+          "leida": false,
+          "fecha": 1795101213616,
+          "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 13 PM."
+        }
+      ]
     },
     "kitty": {
       "nombre": "Evangeline",
