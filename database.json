@@ -200,7 +200,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 20,
+      "pesos": 5,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -224,6 +224,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795126137291,
+          "tipo": "out",
+          "titulo": "Carga a Mine-Games",
+          "detalle": "Transferido a Bolsa de Juego",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795126128400,
           "tipo": "in",
