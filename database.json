@@ -451,7 +451,7 @@
       "notificaciones": [
         {
           "id": 1795117857861,
-          "leida": false,
+          "leida": true,
           "fecha": 1795117857861,
           "texto": "Bienvenido Marveling. Su cuenta fue registrada en Mine-Banco."
         }
