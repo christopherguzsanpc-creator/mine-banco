@@ -382,8 +382,8 @@
       "apellidos": "Sánchez",
       "password": "4321",
       "pesos": 533,
-      "en_deuda_comision": true,
-      "fecha_deuda": 1795033387804,
+      "en_deuda_comision": false,
+      "fecha_deuda": null,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -405,6 +405,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795101217566,
+          "tipo": "in",
+          "titulo": "Pago en Bs. verificado",
+          "detalle": "Aprobado por Christopher — deuda saldada",
+          "monto": "533 PM"
+        },
         {
           "fecha": 1795033718904,
           "tipo": "out",
@@ -491,6 +498,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795101217566.0015,
+          "leida": false,
+          "fecha": 1795101217566,
+          "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 533 PM."
+        },
         {
           "id": 1795033578036.8977,
           "leida": false,
