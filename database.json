@@ -595,7 +595,9 @@
       "amigos": [
         "chrispro32"
       ],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "kitty"
+      ],
       "historial": [
         {
           "fecha": 1795117991505,
@@ -627,6 +629,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795130831338.3157,
+          "leida": false,
+          "fecha": 1795130831338,
+          "texto": "Nueva solicitud de amistad de @kitty."
+        },
         {
           "id": 1795123489499.381,
           "leida": true,
