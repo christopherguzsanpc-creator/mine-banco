@@ -25,7 +25,8 @@
         "intervalo_sync": 15
       },
       "amigos": [
-        "kitty"
+        "kitty",
+        "marvel"
       ],
       "solicitudes_entrantes": [],
       "historial": [
@@ -136,6 +137,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795122778722.1655,
+          "leida": false,
+          "fecha": 1795122778722,
+          "texto": "@marvel aceptó su solicitud de amistad."
+        },
         {
           "id": 1795117774131,
           "leida": true,
@@ -457,10 +464,10 @@
         "tema_oscuro": true,
         "intervalo_sync": 15
       },
-      "amigos": [],
-      "solicitudes_entrantes": [
+      "amigos": [
         "chrispro32"
       ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795117991505,
