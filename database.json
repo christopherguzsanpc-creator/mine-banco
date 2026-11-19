@@ -5,9 +5,9 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 14,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
+      "pesos": 13,
+      "en_deuda_comision": true,
+      "fecha_deuda": 1795049579592,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -28,14 +28,22 @@
         "kitty"
       ],
       "solicitudes_entrantes": [],
-      "historial": [],
+      "historial": [
+        {
+          "fecha": 1795049579592,
+          "tipo": "out",
+          "titulo": "Envío a @kitty",
+          "detalle": "Transferencia (Comisión Bs.)",
+          "monto": "-1 PM"
+        }
+      ],
       "notificaciones": []
     },
     "kitty": {
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 1071,
+      "pesos": 1072,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -61,6 +69,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795049579592,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "Transferencia",
+          "monto": "+1 PM"
+        },
         {
           "fecha": 1795033647639,
           "tipo": "in",
@@ -245,6 +260,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795049579593.5771,
+          "leida": false,
+          "fecha": 1795049579593,
+          "texto": "Transferencia recibida de @chrispro32: +1 PM (Transferencia)."
+        },
         {
           "id": 1795033647639.1526,
           "leida": true,
