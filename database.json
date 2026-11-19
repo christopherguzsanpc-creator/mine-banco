@@ -186,7 +186,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 1,
+      "pesos": 29,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -210,6 +210,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795125979570,
+          "tipo": "in",
+          "titulo": "Cobro desde Mine-Games",
+          "detalle": "Ganancias acumuladas",
+          "monto": "+28 PM"
+        },
         {
           "fecha": 1795125905574,
           "tipo": "out",
@@ -443,6 +450,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795125979570,
+          "leida": false,
+          "fecha": 1795125979570,
+          "texto": "Acreditados +28 PM desde Mine-Games."
+        },
         {
           "id": 1795125891859.2063,
           "leida": false,
