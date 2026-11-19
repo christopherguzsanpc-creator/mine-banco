@@ -501,13 +501,13 @@
       "notificaciones": [
         {
           "id": 1795123489499.381,
-          "leida": false,
+          "leida": true,
           "fecha": 1795123489499,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
         {
           "id": 1795123477281.4763,
-          "leida": false,
+          "leida": true,
           "fecha": 1795123477281,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
