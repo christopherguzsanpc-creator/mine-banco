@@ -210,7 +210,7 @@
         "tarjeta_congelada": false,
         "recibir_solicitudes": true,
         "tema_oscuro": true,
-        "intervalo_sync": 30
+        "intervalo_sync": 15
       },
       "amigos": [
         "chrispro32"
