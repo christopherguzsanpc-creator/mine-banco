@@ -84,8 +84,7 @@
         "intervalo_sync": 30
       },
       "amigos": [
-        "chrispro32",
-        "cristian32g"
+        "chrispro32"
       ],
       "solicitudes_entrantes": [],
       "historial": [
@@ -312,90 +311,6 @@
           "texto": "Transferencia recibida de @marvel: +600 PM (Hola)."
         }
       ]
-    },
-    "cristian32g": {
-      "nombre": "Persona",
-      "apellidos": "Veintitres",
-      "password": "max.12",
-      "pesos": 0,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
-      "dias_multa_cobrados": 0,
-      "baneado": false,
-      "tarjeta": {
-        "solicitada": false,
-        "aprobada": false,
-        "numero": null,
-        "cvv": null,
-        "expiracion": null
-      },
-      "opciones": {
-        "ocultar_saldo": false,
-        "tarjeta_congelada": false,
-        "recibir_solicitudes": true,
-        "tema_oscuro": true,
-        "intervalo_sync": 15
-      },
-      "amigos": [
-        "kitty"
-      ],
-      "solicitudes_entrantes": [],
-      "historial": [
-        {
-          "fecha": 1795111529684,
-          "tipo": "sys",
-          "titulo": "Ajuste administrativo",
-          "detalle": "Aprobado por Christopher",
-          "monto": "0 PM"
-        },
-        {
-          "fecha": 1795033136584,
-          "tipo": "in",
-          "titulo": "Recibido de @kitty",
-          "detalle": "Jajaja",
-          "monto": "+332 PM"
-        },
-        {
-          "fecha": 1795033081081,
-          "tipo": "in",
-          "titulo": "Recibido de @kitty",
-          "detalle": "Toma $1000",
-          "monto": "+1 PM"
-        },
-        {
-          "fecha": 1795030819697,
-          "tipo": "sys",
-          "titulo": "Apertura de cuenta",
-          "detalle": "Registrada en Mine-Banco",
-          "monto": "0 PM"
-        }
-      ],
-      "notificaciones": [
-        {
-          "id": 1795033136584.8108,
-          "leida": true,
-          "fecha": 1795033136584,
-          "texto": "Transferencia recibida de @kitty: +332 PM (Jajaja)."
-        },
-        {
-          "id": 1795033081081.2832,
-          "leida": true,
-          "fecha": 1795033081081,
-          "texto": "Transferencia recibida de @kitty: +1 PM (Toma $1000)."
-        },
-        {
-          "id": 1795030928875.1443,
-          "leida": true,
-          "fecha": 1795030928875,
-          "texto": "Nueva solicitud de amistad de @kitty."
-        },
-        {
-          "id": 1795030819697,
-          "leida": true,
-          "fecha": 1795030819697,
-          "texto": "Bienvenido Persona. Su cuenta fue registrada en Mine-Banco."
-        }
-      ]
     }
   },
   "chats": {
@@ -414,58 +329,6 @@
         "de": "kitty",
         "texto": "Hhb",
         "fecha": 1795030270377
-      }
-    ],
-    "cristian32g__kitty": [
-      {
-        "de": "kitty",
-        "texto": "Holiiiiis",
-        "fecha": 1795030960678
-      },
-      {
-        "de": "cristian32g",
-        "texto": "Hola",
-        "fecha": 1795030971803
-      },
-      {
-        "de": "cristian32g",
-        "texto": "Cómo estás princesa",
-        "fecha": 1795030983115
-      },
-      {
-        "de": "kitty",
-        "texto": "Me das más mani",
-        "fecha": 1795031006549
-      },
-      {
-        "de": "cristian32g",
-        "texto": "Hello",
-        "fecha": 1795031033498
-      },
-      {
-        "de": "cristian32g",
-        "texto": "Yes",
-        "fecha": 1795031041812
-      },
-      {
-        "de": "kitty",
-        "texto": "I",
-        "fecha": 1795031051282
-      },
-      {
-        "de": "kitty",
-        "texto": "Lo ve u",
-        "fecha": 1795031135147
-      },
-      {
-        "de": "kitty",
-        "texto": "I LOVE YOU JAJAJA",
-        "fecha": 1795031245616
-      },
-      {
-        "de": "kitty",
-        "texto": "Jajajaja jajajajaja jajajajaja jajajajajajaja",
-        "fecha": 1795031350695
       }
     ]
   }
