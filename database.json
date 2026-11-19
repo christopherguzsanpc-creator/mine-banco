@@ -179,7 +179,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 1,
+      "pesos": 16,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -203,6 +203,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795125793495,
+          "tipo": "in",
+          "titulo": "Bono Mine-Games (+15 PM)",
+          "detalle": "Recompensa única inicial",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795122439844,
           "tipo": "in",
@@ -408,6 +415,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795125793495,
+          "leida": false,
+          "fecha": 1795125793495,
+          "texto": "Recibió +15 PM del bono único de Mine-Games."
+        },
         {
           "id": 1795122439844.0942,
           "leida": false,
