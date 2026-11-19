@@ -19,7 +19,7 @@
       },
       "opciones": {
         "ocultar_saldo": false,
-        "tarjeta_congelada": false,
+        "tarjeta_congelada": true,
         "recibir_solicitudes": true,
         "tema_oscuro": true,
         "intervalo_sync": 15
