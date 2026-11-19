@@ -5,7 +5,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 50,
+      "pesos": 63,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -29,6 +29,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795117253566,
+          "tipo": "in",
+          "titulo": "Cobro desde Mine-Games",
+          "detalle": "Ganancias acumuladas",
+          "monto": "+13 PM"
+        },
         {
           "fecha": 1795117175281,
           "tipo": "sys",
@@ -73,6 +80,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795117253566,
+          "leida": false,
+          "fecha": 1795117253566,
+          "texto": "Acreditados +13 PM desde Mine-Games."
+        },
         {
           "id": 1795117054061,
           "leida": false,
