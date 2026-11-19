@@ -18,7 +18,7 @@
         "expiracion": "11/30"
       },
       "opciones": {
-        "ocultar_saldo": true,
+        "ocultar_saldo": false,
         "tarjeta_congelada": false,
         "recibir_solicitudes": true,
         "tema_oscuro": true,
