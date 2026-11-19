@@ -149,14 +149,7 @@
           "monto": "0 PM"
         }
       ],
-      "notificaciones": [
-        {
-          "id": 1795033718904.2478,
-          "leida": true,
-          "fecha": 1795033718904,
-          "texto": "Transferencia recibida de @marvel: +1 PM (Gyxtcpj logo ih hcchgcg c gg. G g gg ghcngkg)."
-        }
-      ]
+      "notificaciones": []
     },
     "kitty": {
       "nombre": "Evangeline",
