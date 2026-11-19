@@ -501,31 +501,31 @@
       "notificaciones": [
         {
           "id": 1795122774208.747,
-          "leida": false,
+          "leida": true,
           "fecha": 1795122774208,
           "texto": "Nueva solicitud de amistad de @chrispro32."
         },
         {
           "id": 1795122760517.6428,
-          "leida": false,
+          "leida": true,
           "fecha": 1795122760517,
           "texto": "Nueva solicitud de amistad de @chrispro32."
         },
         {
           "id": 1795121727767.1887,
-          "leida": false,
+          "leida": true,
           "fecha": 1795121727767,
           "texto": "Nueva solicitud de amistad de @chrispro32."
         },
         {
           "id": 1795117991505,
-          "leida": false,
+          "leida": true,
           "fecha": 1795117991505,
           "texto": "Acreditados +28 PM desde Mine-Games."
         },
         {
           "id": 1795117918388,
-          "leida": false,
+          "leida": true,
           "fecha": 1795117918388,
           "texto": "Recibió +15 PM del bono único de Mine-Games."
         },
