@@ -417,7 +417,7 @@
       "nombre": "Marveling",
       "apellidos": "SÁNCHEZ",
       "password": "4321",
-      "pesos": 0,
+      "pesos": 28,
       "en_deuda_comision": false,
       "deudas_bs": 0,
       "fecha_deuda": null,
@@ -441,6 +441,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795117991505,
+          "tipo": "in",
+          "titulo": "Cobro desde Mine-Games",
+          "detalle": "Ganancias acumuladas",
+          "monto": "+28 PM"
+        },
+        {
           "fecha": 1795117930564,
           "tipo": "out",
           "titulo": "Carga a Mine-Games",
@@ -463,6 +470,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795117991505,
+          "leida": false,
+          "fecha": 1795117991505,
+          "texto": "Acreditados +28 PM desde Mine-Games."
+        },
         {
           "id": 1795117918388,
           "leida": false,
