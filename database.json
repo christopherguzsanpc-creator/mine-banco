@@ -5,7 +5,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 19.9,
+      "pesos": 19.8,
       "en_deuda_comision": true,
       "fecha_deuda": 1795188543983,
       "dias_multa_cobrados": 0,
@@ -30,6 +30,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795188549595,
+          "tipo": "out",
+          "titulo": "Envío a @kitty",
+          "detalle": "Transferencia (Comisión Bs.)",
+          "monto": "-0,1 PM"
+        },
         {
           "fecha": 1795188543984,
           "tipo": "out",
@@ -244,13 +251,13 @@
           "texto": "Recibió +15 PM del bono único de Mine-Games."
         }
       ],
-      "deudas_bs": 1
+      "deudas_bs": 2
     },
     "kitty": {
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 5.1,
+      "pesos": 5.2,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -274,6 +281,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795188549595,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "Transferencia",
+          "monto": "+0,1 PM"
+        },
         {
           "fecha": 1795188543984,
           "tipo": "in",
@@ -556,6 +570,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795188549595219,
+          "leida": false,
+          "fecha": 1795188549595,
+          "texto": "Transferencia recibida de @chrispro32: +0,1 PM (Transferencia)."
+        },
         {
           "id": 1795188543985028,
           "leida": false,
