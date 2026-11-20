@@ -854,5 +854,8 @@
   "canjes_bs": [],
   "cajero": [],
   "bs_canjeados": 0,
-  "pm_fisicos_circulando": 0
+  "pm_fisicos_circulando": 1,
+  "tasa_pm_bs": 5,
+  "min_retiro_bs": 20,
+  "cofre_real_bs": 0
 }
