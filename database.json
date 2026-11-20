@@ -721,5 +721,5 @@
   "pm_fisicos_circulando": 1000,
   "tasa_pm_bs": 5,
   "min_retiro_bs": 20,
-  "cofre_real_bs": 1000
+  "cofre_real_bs": 0
 }
