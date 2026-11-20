@@ -558,7 +558,7 @@
       "notificaciones": [
         {
           "id": 1795192393474077,
-          "leida": false,
+          "leida": true,
           "fecha": 1795192393474,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
