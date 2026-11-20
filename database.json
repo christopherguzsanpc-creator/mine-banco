@@ -5,9 +5,9 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 20,
-      "en_deuda_comision": false,
-      "fecha_deuda": null,
+      "pesos": 19.9,
+      "en_deuda_comision": true,
+      "fecha_deuda": 1795188543983,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -30,6 +30,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795188543984,
+          "tipo": "out",
+          "titulo": "Envío a @kitty",
+          "detalle": "Transferencia (Comisión Bs.)",
+          "monto": "-0,1 PM"
+        },
         {
           "fecha": 1795185966328,
           "tipo": "out",
@@ -236,13 +243,14 @@
           "fecha": 1795117054061,
           "texto": "Recibió +15 PM del bono único de Mine-Games."
         }
-      ]
+      ],
+      "deudas_bs": 1
     },
     "kitty": {
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 5,
+      "pesos": 5.1,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -266,6 +274,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795188543984,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "Transferencia",
+          "monto": "+0,1 PM"
+        },
         {
           "fecha": 1795126137291,
           "tipo": "out",
@@ -542,6 +557,12 @@
       ],
       "notificaciones": [
         {
+          "id": 1795188543985028,
+          "leida": false,
+          "fecha": 1795188543985,
+          "texto": "Transferencia recibida de @chrispro32: +0,1 PM (Transferencia)."
+        },
+        {
           "id": 1795126128400,
           "leida": false,
           "fecha": 1795126128400,
@@ -796,5 +817,9 @@
         "fecha": 1795122902303
       }
     ]
-  }
+  },
+  "canjes_bs": [],
+  "cajero": [],
+  "bs_canjeados": 0,
+  "pm_fisicos_circulando": 0
 }
