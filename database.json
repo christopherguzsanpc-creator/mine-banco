@@ -5,7 +5,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 0,
+      "pesos": 15,
       "en_deuda_comision": false,
       "fecha_deuda": null,
       "dias_multa_cobrados": 0,
@@ -30,6 +30,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795192073258,
+          "tipo": "in",
+          "titulo": "Bono Mine-Games (+15 PM)",
+          "detalle": "Recompensa única inicial",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795191941247,
           "tipo": "sys",
@@ -256,6 +263,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795192073258,
+          "leida": false,
+          "fecha": 1795192073258,
+          "texto": "Recibió +15 PM del bono único de Mine-Games."
+        },
         {
           "id": 1795191841615,
           "leida": false,
