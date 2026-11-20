@@ -223,7 +223,7 @@
       "notificaciones": [
         {
           "id": 1795188598365273,
-          "leida": false,
+          "leida": true,
           "fecha": 1795188598365,
           "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 19,8 PM."
         },
