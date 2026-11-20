@@ -6,8 +6,8 @@
       "apellidos": "Guzmán",
       "password": "Mario.12",
       "pesos": 19.8,
-      "en_deuda_comision": true,
-      "fecha_deuda": 1795188543983,
+      "en_deuda_comision": false,
+      "fecha_deuda": null,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -30,6 +30,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795188598365,
+          "tipo": "in",
+          "titulo": "Pago en Bs. verificado",
+          "detalle": "Aprobado por Christopher — deuda saldada",
+          "monto": "19,8 PM"
+        },
         {
           "fecha": 1795188549595,
           "tipo": "out",
@@ -215,6 +222,12 @@
       ],
       "notificaciones": [
         {
+          "id": 1795188598365273,
+          "leida": false,
+          "fecha": 1795188598365,
+          "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 19,8 PM."
+        },
+        {
           "id": 1795122778722.1655,
           "leida": true,
           "fecha": 1795122778722,
@@ -251,7 +264,7 @@
           "texto": "Recibió +15 PM del bono único de Mine-Games."
         }
       ],
-      "deudas_bs": 2
+      "deudas_bs": 0
     },
     "kitty": {
       "nombre": "Evangeline",
