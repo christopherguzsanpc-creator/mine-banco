@@ -653,7 +653,15 @@
       ]
     }
   },
-  "chats": {},
+  "chats": {
+    "chrispro32__kitty": [
+      {
+        "de": "chrispro32",
+        "texto": "Cuántos pesos tienes pendeja?!?",
+        "fecha": 1795193655659
+      }
+    ]
+  },
   "canjes_bs": [],
   "cajero": [],
   "bs_canjeados": 0,
