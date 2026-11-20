@@ -573,9 +573,9 @@
       "password": "Mario.12",
       "pesos": 0,
       "pm_congelados": 0,
-      "en_deuda_comision": true,
-      "deudas_bs": 2,
-      "fecha_deuda": 1795193625039,
+      "en_deuda_comision": false,
+      "deudas_bs": 0,
+      "fecha_deuda": null,
       "dias_multa_cobrados": 0,
       "baneado": false,
       "tarjeta": {
@@ -597,6 +597,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795216805914,
+          "tipo": "in",
+          "titulo": "Pago en Bs. verificado",
+          "detalle": "Aprobado por Christopher — deuda saldada",
+          "monto": "0 PM"
+        },
         {
           "fecha": 1795203202304,
           "tipo": "sys",
@@ -648,6 +655,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795216805915615,
+          "leida": false,
+          "fecha": 1795216805915,
+          "texto": "Pago en Bs. verificado y aprobado por Christopher. Saldo actualizado a 0 PM."
+        },
         {
           "id": 1795192518729331,
           "leida": true,
