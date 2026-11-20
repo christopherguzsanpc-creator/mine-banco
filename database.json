@@ -518,6 +518,51 @@
           "texto": "Bienvenido Marveling. Su cuenta fue registrada en Mine-Banco."
         }
       ]
+    },
+    "chrispro32": {
+      "nombre": "Christopher",
+      "apellidos": "Guzmán",
+      "password": "Mario.12",
+      "pesos": 0,
+      "pm_congelados": 0,
+      "en_deuda_comision": false,
+      "deudas_bs": 0,
+      "fecha_deuda": null,
+      "dias_multa_cobrados": 0,
+      "baneado": false,
+      "tarjeta": {
+        "solicitada": false,
+        "aprobada": false,
+        "numero": null,
+        "cvv": null,
+        "expiracion": null
+      },
+      "opciones": {
+        "ocultar_saldo": false,
+        "tarjeta_congelada": false,
+        "recibir_solicitudes": true,
+        "tema_oscuro": false,
+        "intervalo_sync": 60
+      },
+      "amigos": [],
+      "solicitudes_entrantes": [],
+      "historial": [
+        {
+          "fecha": 1795192150472,
+          "tipo": "sys",
+          "titulo": "Apertura de cuenta",
+          "detalle": "Registrada en Mine-Banco",
+          "monto": "0 PM"
+        }
+      ],
+      "notificaciones": [
+        {
+          "id": 1795192150472360,
+          "leida": false,
+          "fecha": 1795192150472,
+          "texto": "Bienvenido Christopher. Su cuenta fue registrada en Mine-Banco."
+        }
+      ]
     }
   },
   "chats": {},
