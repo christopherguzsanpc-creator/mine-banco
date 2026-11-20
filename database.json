@@ -582,19 +582,19 @@
       "notificaciones": [
         {
           "id": 1795192518729331,
-          "leida": false,
+          "leida": true,
           "fecha": 1795192518729,
           "texto": "Nueva solicitud de amistad de @kitty."
         },
         {
           "id": 1795192466986344,
-          "leida": false,
+          "leida": true,
           "fecha": 1795192466986,
           "texto": "Depósito físico de +200 PM verificado y aprobado por Christopher."
         },
         {
           "id": 1795192460420568,
-          "leida": false,
+          "leida": true,
           "fecha": 1795192460420,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
