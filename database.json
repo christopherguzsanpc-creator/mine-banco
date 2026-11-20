@@ -523,7 +523,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 0,
+      "pesos": 200,
       "pm_congelados": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
@@ -548,6 +548,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795192466986,
+          "tipo": "in",
+          "titulo": "Depósito Cajero aprobado",
+          "detalle": "Aprobado por Christopher: 1 billete(s) de 200 PM",
+          "monto": "+200 PM"
+        },
+        {
           "fecha": 1795192420231,
           "tipo": "sys",
           "titulo": "Depósito Cajero solicitado",
@@ -563,6 +570,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795192466986344,
+          "leida": false,
+          "fecha": 1795192466986,
+          "texto": "Depósito físico de +200 PM verificado y aprobado por Christopher."
+        },
         {
           "id": 1795192460420568,
           "leida": false,
@@ -586,18 +599,9 @@
   },
   "chats": {},
   "canjes_bs": [],
-  "cajero": [
-    {
-      "id": 1795192420231006,
-      "tipo": "deposito",
-      "user": "chrispro32",
-      "pm": 200,
-      "billetes": 1,
-      "fecha": 1795192420231
-    }
-  ],
+  "cajero": [],
   "bs_canjeados": 0,
-  "pm_fisicos_circulando": 200,
+  "pm_fisicos_circulando": 0,
   "tasa_pm_bs": 5,
   "min_retiro_bs": 20,
   "cofre_real_bs": 0
