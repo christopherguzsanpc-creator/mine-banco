@@ -456,7 +456,7 @@
       "nombre": "Marveling",
       "apellidos": "SÁNCHEZ",
       "password": "4321",
-      "pesos": 200,
+      "pesos": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
       "fecha_deuda": null,
@@ -481,6 +481,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795224607717,
+          "tipo": "sys",
+          "titulo": "Ajuste administrativo",
+          "detalle": "Aprobado por Christopher",
+          "monto": "0 PM"
+        },
         {
           "fecha": 1795224512945,
           "tipo": "in",
