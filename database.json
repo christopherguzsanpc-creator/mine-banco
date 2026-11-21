@@ -449,7 +449,7 @@
       "nombre": "Marveling",
       "apellidos": "SÁNCHEZ",
       "password": "4321",
-      "pesos": 0,
+      "pesos": 200,
       "en_deuda_comision": false,
       "deudas_bs": 0,
       "fecha_deuda": null,
@@ -474,6 +474,13 @@
         "kitty"
       ],
       "historial": [
+        {
+          "fecha": 1795224512945,
+          "tipo": "in",
+          "titulo": "Depósito Cajero aprobado",
+          "detalle": "Aprobado por Christopher: 1 billete(s) de 200 PM",
+          "monto": "+200 PM"
+        },
         {
           "fecha": 1795224159000,
           "tipo": "sys",
@@ -518,6 +525,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795224512945883,
+          "leida": false,
+          "fecha": 1795224512945,
+          "texto": "Depósito físico de +200 PM verificado y aprobado por Christopher."
+        },
         {
           "id": 1795130831338.3157,
           "leida": false,
@@ -731,18 +744,9 @@
     ]
   },
   "canjes_bs": [],
-  "cajero": [
-    {
-      "id": 1795224159000352,
-      "tipo": "deposito",
-      "user": "marvel",
-      "pm": 200,
-      "billetes": 1,
-      "fecha": 1795224159000
-    }
-  ],
+  "cajero": [],
   "bs_canjeados": 0,
-  "pm_fisicos_circulando": 1000,
+  "pm_fisicos_circulando": 800,
   "tasa_pm_bs": 5,
   "min_retiro_bs": 20,
   "cofre_real_bs": 0
