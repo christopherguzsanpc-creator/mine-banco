@@ -475,6 +475,13 @@
       ],
       "historial": [
         {
+          "fecha": 1795224159000,
+          "tipo": "sys",
+          "titulo": "Depósito Cajero solicitado",
+          "detalle": "1 billete(s) de 200 PM",
+          "monto": "+200 PM"
+        },
+        {
           "fecha": 1795191952267,
           "tipo": "sys",
           "titulo": "Ajuste administrativo",
@@ -724,7 +731,16 @@
     ]
   },
   "canjes_bs": [],
-  "cajero": [],
+  "cajero": [
+    {
+      "id": 1795224159000352,
+      "tipo": "deposito",
+      "user": "marvel",
+      "pm": 200,
+      "billetes": 1,
+      "fecha": 1795224159000
+    }
+  ],
   "bs_canjeados": 0,
   "pm_fisicos_circulando": 1000,
   "tasa_pm_bs": 5,
