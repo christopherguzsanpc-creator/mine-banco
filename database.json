@@ -605,7 +605,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 1543.56,
+      "pesos": 1528.56,
       "pm_congelados": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
@@ -631,6 +631,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795380552593,
+          "tipo": "out",
+          "titulo": "Carga a Mine-Games",
+          "detalle": "Transferido a Bolsa de Juego",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795380549710,
           "tipo": "in",
