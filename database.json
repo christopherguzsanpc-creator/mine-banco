@@ -182,19 +182,19 @@
       "notificaciones": [
         {
           "id": 1795480497912102,
-          "leida": false,
+          "leida": true,
           "fecha": 1795480497912,
           "texto": "Acreditados +7,2 PM desde Mine-Games."
         },
         {
           "id": 1795480447675038,
-          "leida": false,
+          "leida": true,
           "fecha": 1795480447675,
           "texto": "Recibió +15 PM del bono único de Mine-Games."
         },
         {
           "id": 1795480434231591,
-          "leida": false,
+          "leida": true,
           "fecha": 1795480434231,
           "texto": "Acreditados +11,1 PM desde Mine-Games."
         },
