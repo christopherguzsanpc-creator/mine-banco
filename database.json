@@ -5,7 +5,7 @@
       "nombre": "Marling",
       "apellidos": "Sánchez",
       "password": "Marlin09.,",
-      "pesos": 0,
+      "pesos": 15,
       "pm_congelados": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
@@ -32,6 +32,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795482506269,
+          "tipo": "in",
+          "titulo": "Bono Mine-Games (+15 PM)",
+          "detalle": "Recompensa única inicial",
+          "monto": "+15 PM"
+        },
+        {
           "fecha": 1795479309098,
           "tipo": "sys",
           "titulo": "Apertura de cuenta",
@@ -40,6 +47,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795482506270307,
+          "leida": false,
+          "fecha": 1795482506270,
+          "texto": "Recibió +15 PM del bono único de Mine-Games."
+        },
         {
           "id": 1795479880038872,
           "leida": false,
