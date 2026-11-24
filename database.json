@@ -235,7 +235,7 @@
       "notificaciones": [
         {
           "id": 1795482225569987,
-          "leida": false,
+          "leida": true,
           "fecha": 1795482225571,
           "texto": "Bienvenido Marling. Su cuenta fue registrada en Mine-Banco."
         }
