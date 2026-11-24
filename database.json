@@ -26,10 +26,10 @@
         "tema_oscuro": false,
         "intervalo_sync": 60
       },
-      "amigos": [],
-      "solicitudes_entrantes": [
+      "amigos": [
         "chrispro32"
       ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795479309098,
@@ -79,7 +79,9 @@
         "tema_oscuro": true,
         "intervalo_sync": 15
       },
-      "amigos": [],
+      "amigos": [
+        "marlingsan"
+      ],
       "solicitudes_entrantes": [
         "marlingsan"
       ],
@@ -93,6 +95,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795479589942493,
+          "leida": false,
+          "fecha": 1795479589942,
+          "texto": "@marlingsan aceptó su solicitud de amistad."
+        },
         {
           "id": 1795479583080098,
           "leida": false,
