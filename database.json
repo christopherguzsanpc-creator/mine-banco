@@ -1,11 +1,11 @@
 {
-  "comisiones_admin_pesos": 20,
+  "comisiones_admin_pesos": 22,
   "usuarios": {
     "marlingsan": {
       "nombre": "Marling",
       "apellidos": "Sánchez",
       "password": "Marlin09.,",
-      "pesos": 0,
+      "pesos": 500,
       "pm_congelados": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
@@ -32,6 +32,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795483172233,
+          "tipo": "in",
+          "titulo": "Recibido de @chrispro32",
+          "detalle": "Toma y juega!",
+          "monto": "+500 PM"
+        },
+        {
           "fecha": 1795482534747,
           "tipo": "out",
           "titulo": "Carga a Mine-Games",
@@ -54,6 +61,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795483172234085,
+          "leida": false,
+          "fecha": 1795483172234,
+          "texto": "Transferencia recibida de @chrispro32: +500 PM (Toma y juega!)."
+        },
         {
           "id": 1795482506270307,
           "leida": false,
@@ -96,7 +109,7 @@
       "nombre": "Christopher",
       "apellidos": "Guzmán",
       "password": "Mario.12",
-      "pesos": 1666.66,
+      "pesos": 1164.66,
       "pm_congelados": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
@@ -122,6 +135,13 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [
+        {
+          "fecha": 1795483172233,
+          "tipo": "out",
+          "titulo": "Envío a @marlingsan",
+          "detalle": "Toma y juega! (+2 PM com.)",
+          "monto": "-502 PM"
+        },
         {
           "fecha": 1795483115602,
           "tipo": "sys",
