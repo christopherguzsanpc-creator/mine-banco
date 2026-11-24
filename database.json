@@ -80,7 +80,9 @@
         "intervalo_sync": 15
       },
       "amigos": [],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "marlingsan"
+      ],
       "historial": [
         {
           "fecha": 1795479441953,
@@ -91,6 +93,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795479583080098,
+          "leida": false,
+          "fecha": 1795479583080,
+          "texto": "Nueva solicitud de amistad de @marlingsan."
+        },
         {
           "id": 1795479441953770,
           "leida": true,
