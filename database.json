@@ -120,7 +120,15 @@
       ]
     }
   },
-  "chats": {},
+  "chats": {
+    "chrispro32__marlingsan": [
+      {
+        "de": "marlingsan",
+        "texto": "Hola mi amor",
+        "fecha": 1795479606868
+      }
+    ]
+  },
   "canjes_bs": [],
   "cajero": [],
   "bs_canjeados": 0,
