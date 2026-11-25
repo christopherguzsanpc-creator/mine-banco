@@ -128,7 +128,15 @@
       ]
     }
   },
-  "chats": {},
+  "chats": {
+    "chrispro32__kjjj": [
+      {
+        "de": "chrispro32",
+        "texto": "https://www.mediafire.com/file/dz0bzghpf04ywi6/mt-manager-2-26-11.apk/file",
+        "fecha": 1795630419059
+      }
+    ]
+  },
   "canjes_bs": [],
   "cajero": [],
   "bs_canjeados": 0,
