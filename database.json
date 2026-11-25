@@ -49,7 +49,7 @@
       "notificaciones": [
         {
           "id": 1795630359798550,
-          "leida": false,
+          "leida": true,
           "fecha": 1795630359798,
           "texto": "Nueva solicitud de amistad de @kjjj."
         },
