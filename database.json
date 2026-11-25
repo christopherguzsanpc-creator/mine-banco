@@ -110,7 +110,8 @@
           "fecha": 1795479309098,
           "texto": "Bienvenido Marling. Su cuenta fue registrada en Mine-Banco."
         }
-      ]
+      ],
+      "creado": 1795621017871
     },
     "chrispro32": {
       "nombre": "Christopher",
@@ -150,7 +151,8 @@
           "monto": "-15 PM"
         }
       ],
-      "notificaciones": []
+      "notificaciones": [],
+      "creado": 1795621017871
     },
     "ricardom": {
       "nombre": "Marling",
@@ -203,7 +205,8 @@
           "fecha": 1795482225571,
           "texto": "Bienvenido Marling. Su cuenta fue registrada en Mine-Banco."
         }
-      ]
+      ],
+      "creado": 1795621017871
     }
   },
   "chats": {
