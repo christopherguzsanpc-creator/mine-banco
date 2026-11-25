@@ -41,7 +41,7 @@
       "notificaciones": [
         {
           "id": 1795622529027345,
-          "leida": false,
+          "leida": true,
           "fecha": 1795622529027,
           "texto": "Bienvenido Christopher. Su cuenta fue registrada en Mine-Banco."
         }
