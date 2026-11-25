@@ -25,7 +25,7 @@
         "tarjeta_congelada": false,
         "recibir_solicitudes": true,
         "tema_oscuro": true,
-        "intervalo_sync": 15
+        "intervalo_sync": 60
       },
       "amigos": [],
       "solicitudes_entrantes": [],
