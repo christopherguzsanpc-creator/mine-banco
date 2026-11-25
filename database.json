@@ -283,7 +283,9 @@
         "intervalo_sync": 60
       },
       "amigos": [],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "chrispro32"
+      ],
       "historial": [
         {
           "fecha": 1795482225569,
@@ -294,6 +296,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795616295829731,
+          "leida": false,
+          "fecha": 1795616295829,
+          "texto": "Nueva solicitud de amistad de @chrispro32."
+        },
         {
           "id": 1795482225569987,
           "leida": true,
