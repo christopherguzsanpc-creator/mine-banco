@@ -26,9 +26,7 @@
         "tema_oscuro": true,
         "intervalo_sync": 15
       },
-      "amigos": [
-        "chrispro32"
-      ],
+      "amigos": [],
       "solicitudes_entrantes": [],
       "historial": [
         {
@@ -113,47 +111,6 @@
       ],
       "creado": 1795621017871
     },
-    "chrispro32": {
-      "nombre": "Christopher",
-      "apellidos": "Guzmán",
-      "password": "Mario.12",
-      "pesos": 1038.66,
-      "pm_congelados": 0,
-      "en_deuda_comision": false,
-      "deudas_bs": 0,
-      "fecha_deuda": null,
-      "dias_multa_cobrados": 0,
-      "baneado": false,
-      "tarjeta": {
-        "solicitada": true,
-        "aprobada": true,
-        "numero": "5204148195637681",
-        "cvv": "295",
-        "expiracion": "11/30"
-      },
-      "opciones": {
-        "ocultar_saldo": false,
-        "tarjeta_congelada": false,
-        "recibir_solicitudes": true,
-        "tema_oscuro": true,
-        "intervalo_sync": 15
-      },
-      "amigos": [
-        "marlingsan"
-      ],
-      "solicitudes_entrantes": [],
-      "historial": [
-        {
-          "fecha": 1795618160501,
-          "tipo": "out",
-          "titulo": "Carga a Mine-Games",
-          "detalle": "Transferido a Bolsa de Juego",
-          "monto": "-15 PM"
-        }
-      ],
-      "notificaciones": [],
-      "creado": 1795621017871
-    },
     "ricardom": {
       "nombre": "Marling",
       "apellidos": "Sánchez",
@@ -180,9 +137,7 @@
         "intervalo_sync": 60
       },
       "amigos": [],
-      "solicitudes_entrantes": [
-        "chrispro32"
-      ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795482225569,
@@ -209,45 +164,7 @@
       "creado": 1795621017871
     }
   },
-  "chats": {
-    "chrispro32__marlingsan": [
-      {
-        "de": "marlingsan",
-        "texto": "Hola mi amor",
-        "fecha": 1795479606868
-      },
-      {
-        "de": "chrispro32",
-        "texto": "Holi",
-        "fecha": 1795479612256
-      },
-      {
-        "de": "chrispro32",
-        "texto": "Hola!",
-        "fecha": 1795479620745
-      },
-      {
-        "de": "marlingsan",
-        "texto": "Te amo mi amor lindo yo no sé de dónde sacaste esa inteligencia  para hacer las cosas",
-        "fecha": 1795479758098
-      },
-      {
-        "de": "chrispro32",
-        "texto": "Pues... Programando y aprendiendo bla bla y también ayuda de IA bueno pero un buen excelente resultado y bueno.... Muchaaas cosas más para que funcione el link y la web....",
-        "fecha": 1795479844602
-      },
-      {
-        "de": "chrispro32",
-        "texto": "Ya te aprobé la tarjeta!",
-        "fecha": 1795479911549
-      },
-      {
-        "de": "marlingsan",
-        "texto": "Te amo inmensamente",
-        "fecha": 1795480908106
-      }
-    ]
-  },
+  "chats": {},
   "canjes_bs": [],
   "cajero": [],
   "bs_canjeados": 0,
