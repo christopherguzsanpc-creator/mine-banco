@@ -134,7 +134,7 @@
       "opciones": {
         "ocultar_saldo": false,
         "tarjeta_congelada": false,
-        "recibir_solicitudes": false,
+        "recibir_solicitudes": true,
         "tema_oscuro": true,
         "intervalo_sync": 15
       },
