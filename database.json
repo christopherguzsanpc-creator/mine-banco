@@ -142,62 +142,7 @@
       ],
       "solicitudes_entrantes": [],
       "historial": [],
-      "notificaciones": [
-        {
-          "id": 1795616489676715,
-          "leida": true,
-          "fecha": 1795616489676,
-          "texto": "Acreditados +9 PM desde Mine-Games."
-        },
-        {
-          "id": 1795480497912102,
-          "leida": true,
-          "fecha": 1795480497912,
-          "texto": "Acreditados +7,2 PM desde Mine-Games."
-        },
-        {
-          "id": 1795480447675038,
-          "leida": true,
-          "fecha": 1795480447675,
-          "texto": "Recibió +15 PM del bono único de Mine-Games."
-        },
-        {
-          "id": 1795480434231591,
-          "leida": true,
-          "fecha": 1795480434231,
-          "texto": "Acreditados +11,1 PM desde Mine-Games."
-        },
-        {
-          "id": 1795479728852922,
-          "leida": true,
-          "fecha": 1795479728852,
-          "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
-        },
-        {
-          "id": 1795479624055024,
-          "leida": true,
-          "fecha": 1795479624055,
-          "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
-        },
-        {
-          "id": 1795479589942493,
-          "leida": true,
-          "fecha": 1795479589942,
-          "texto": "@marlingsan aceptó su solicitud de amistad."
-        },
-        {
-          "id": 1795479583080098,
-          "leida": true,
-          "fecha": 1795479583080,
-          "texto": "Nueva solicitud de amistad de @marlingsan."
-        },
-        {
-          "id": 1795479441953770,
-          "leida": true,
-          "fecha": 1795479441953,
-          "texto": "Bienvenido Christopher. Su cuenta fue registrada en Mine-Banco."
-        }
-      ]
+      "notificaciones": []
     },
     "ricardom": {
       "nombre": "Marling",
