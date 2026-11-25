@@ -27,7 +27,9 @@
         "intervalo_sync": 15
       },
       "amigos": [],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "kjjj"
+      ],
       "historial": [
         {
           "fecha": 1795623787463,
@@ -38,6 +40,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795630359798550,
+          "leida": false,
+          "fecha": 1795630359798,
+          "texto": "Nueva solicitud de amistad de @kjjj."
+        },
         {
           "id": 1795623829383656,
           "leida": true,
