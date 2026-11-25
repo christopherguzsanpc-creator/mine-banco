@@ -40,13 +40,13 @@
       "notificaciones": [
         {
           "id": 1795623829383656,
-          "leida": false,
+          "leida": true,
           "fecha": 1795623829383,
           "texto": "Su tarjeta de débito MasterCard fue aprobada por Christopher."
         },
         {
           "id": 1795623809090356,
-          "leida": false,
+          "leida": true,
           "fecha": 1795623809090,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
