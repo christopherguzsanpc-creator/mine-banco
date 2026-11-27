@@ -30,7 +30,9 @@
         "kjjj",
         "kittymiau"
       ],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "marvel12"
+      ],
       "historial": [
         {
           "fecha": 1795647321189,
@@ -48,6 +50,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795818820427685,
+          "leida": false,
+          "fecha": 1795818820427,
+          "texto": "Nueva solicitud de amistad de @marvel12."
+        },
         {
           "id": 1795797308009312,
           "leida": false,
