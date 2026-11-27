@@ -27,11 +27,10 @@
         "intervalo_sync": 15
       },
       "amigos": [
-        "kjjj"
-      ],
-      "solicitudes_entrantes": [
+        "kjjj",
         "kittymiau"
       ],
+      "solicitudes_entrantes": [],
       "historial": [
         {
           "fecha": 1795647321189,
@@ -174,7 +173,9 @@
         "tema_oscuro": false,
         "intervalo_sync": 15
       },
-      "amigos": [],
+      "amigos": [
+        "chrispro32"
+      ],
       "solicitudes_entrantes": [],
       "historial": [
         {
@@ -186,6 +187,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795797562663558,
+          "leida": false,
+          "fecha": 1795797562663,
+          "texto": "@chrispro32 aceptó su solicitud de amistad."
+        },
         {
           "id": 1795797287258639,
           "leida": false,
