@@ -152,7 +152,7 @@
       "nombre": "Evangeline",
       "apellidos": "Guzmán",
       "password": "2618",
-      "pesos": 0,
+      "pesos": 15,
       "pm_congelados": 0,
       "en_deuda_comision": false,
       "deudas_bs": 0,
@@ -179,6 +179,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795816127966,
+          "tipo": "in",
+          "titulo": "Bono Mine-Games (+15 PM)",
+          "detalle": "Recompensa única inicial",
+          "monto": "+15 PM"
+        },
+        {
           "fecha": 1795815704359,
           "tipo": "sys",
           "titulo": "Solicitud Depósito de Bs.",
@@ -194,6 +201,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795816127966,
+          "leida": false,
+          "fecha": 1795816127966,
+          "texto": "Recibió +15 PM del bono único de Mine-Games."
+        },
         {
           "id": 1795815640185713,
           "leida": false,
