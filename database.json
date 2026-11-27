@@ -29,7 +29,9 @@
       "amigos": [
         "kjjj"
       ],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "kittymiau"
+      ],
       "historial": [
         {
           "fecha": 1795647321189,
@@ -47,6 +49,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795797308009312,
+          "leida": false,
+          "fecha": 1795797308009,
+          "texto": "Nueva solicitud de amistad de @kittymiau."
+        },
         {
           "id": 1795630359798550,
           "leida": true,
