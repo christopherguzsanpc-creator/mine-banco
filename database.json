@@ -213,6 +213,51 @@
           "texto": "Bienvenido Evangeline. Su cuenta fue registrada en Mine-Banco."
         }
       ]
+    },
+    "marvel12": {
+      "nombre": "Marveling",
+      "apellidos": "Illanes",
+      "password": "4884",
+      "pesos": 0,
+      "pm_congelados": 0,
+      "en_deuda_comision": false,
+      "deudas_bs": 0,
+      "fecha_deuda": null,
+      "dias_multa_cobrados": 0,
+      "baneado": false,
+      "tarjeta": {
+        "solicitada": false,
+        "aprobada": false,
+        "numero": null,
+        "cvv": null,
+        "expiracion": null
+      },
+      "opciones": {
+        "ocultar_saldo": false,
+        "tarjeta_congelada": false,
+        "recibir_solicitudes": true,
+        "tema_oscuro": false,
+        "intervalo_sync": 60
+      },
+      "amigos": [],
+      "solicitudes_entrantes": [],
+      "historial": [
+        {
+          "fecha": 1795816044646,
+          "tipo": "sys",
+          "titulo": "Apertura de cuenta",
+          "detalle": "Registrada en Mine-Banco",
+          "monto": "0 PM"
+        }
+      ],
+      "notificaciones": [
+        {
+          "id": 1795816044646242,
+          "leida": false,
+          "fecha": 1795816044650,
+          "texto": "Bienvenido Marveling. Su cuenta fue registrada en Mine-Banco."
+        }
+      ]
     }
   },
   "chats": {
