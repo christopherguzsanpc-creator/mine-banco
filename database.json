@@ -179,6 +179,13 @@
       "solicitudes_entrantes": [],
       "historial": [
         {
+          "fecha": 1795815704359,
+          "tipo": "sys",
+          "titulo": "Solicitud Depósito de Bs.",
+          "detalle": "70 Bs. por +350 PM",
+          "monto": "+350 PM"
+        },
+        {
           "fecha": 1795797287257,
           "tipo": "sys",
           "titulo": "Apertura de cuenta",
@@ -259,7 +266,17 @@
       }
     ]
   },
-  "canjes_bs": [],
+  "canjes_bs": [
+    {
+      "id": 1795815704359529,
+      "tipo": "in",
+      "user": "kittymiau",
+      "bs": 70,
+      "pm": 350,
+      "billetes": "50+20",
+      "fecha": 1795815704359
+    }
+  ],
   "cajero": [],
   "bs_canjeados": 0,
   "pm_fisicos_circulando": 1000,
