@@ -110,7 +110,8 @@
         "chrispro32"
       ],
       "solicitudes_entrantes": [
-        "chrispro32"
+        "chrispro32",
+        "kittymiau"
       ],
       "historial": [
         {
@@ -122,6 +123,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795797311484338,
+          "leida": false,
+          "fecha": 1795797311484,
+          "texto": "Nueva solicitud de amistad de @kittymiau."
+        },
         {
           "id": 1795630410046393,
           "leida": false,
