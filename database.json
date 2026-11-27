@@ -281,13 +281,13 @@
       "notificaciones": [
         {
           "id": 1795816070967392,
-          "leida": false,
+          "leida": true,
           "fecha": 1795816070967,
           "texto": "Solicitud de tarjeta enviada para aprobación de Christopher."
         },
         {
           "id": 1795816044646242,
-          "leida": false,
+          "leida": true,
           "fecha": 1795816044650,
           "texto": "Bienvenido Marveling. Su cuenta fue registrada en Mine-Banco."
         }
