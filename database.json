@@ -219,6 +219,12 @@
       ],
       "notificaciones": [
         {
+          "id": 1795825278206458,
+          "leida": false,
+          "fecha": 1795825278206,
+          "texto": "Tu solicitud de depositar 70 Bs. fue rechazada por Christopher."
+        },
+        {
           "id": 1795825128869939,
           "leida": false,
           "fecha": 1795825128869,
@@ -353,17 +359,7 @@
       }
     ]
   },
-  "canjes_bs": [
-    {
-      "id": 1795815704359529,
-      "tipo": "in",
-      "user": "kittymiau",
-      "bs": 70,
-      "pm": 350,
-      "billetes": "50+20",
-      "fecha": 1795815704359
-    }
-  ],
+  "canjes_bs": [],
   "cajero": [],
   "bs_canjeados": 0,
   "pm_fisicos_circulando": 1000,
