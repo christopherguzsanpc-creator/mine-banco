@@ -184,7 +184,9 @@
       "amigos": [
         "chrispro32"
       ],
-      "solicitudes_entrantes": [],
+      "solicitudes_entrantes": [
+        "marvel12"
+      ],
       "historial": [
         {
           "fecha": 1795816150503,
@@ -216,6 +218,12 @@
         }
       ],
       "notificaciones": [
+        {
+          "id": 1795825128869939,
+          "leida": false,
+          "fecha": 1795825128869,
+          "texto": "Nueva solicitud de amistad de @marvel12."
+        },
         {
           "id": 1795816127966,
           "leida": false,
